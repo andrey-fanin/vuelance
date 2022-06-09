@@ -1,11 +1,11 @@
-#!/usr/bin/env sh
+# !/usr/bin/env sh
 
 set -e
 
 npm run build
 
 # переход в каталог сборки
-cd public
+cd dist
 
 git init
 git add -A

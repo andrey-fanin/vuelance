@@ -49,8 +49,8 @@ export default {
     }
 
     const isValid = computed(() => {
-      return title.value.trim() !== '' &&
-             date.value.trim() && description.value.trim() !== ''
+      return title.value !== '' &&
+             date.value && description.value !== ''
     })
 
     return {
