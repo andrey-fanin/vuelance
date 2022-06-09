@@ -5,34 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="968effe2-673f-489d-beb6-21571826ab3b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/404.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/css/app.ae73fc17.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/js/app.54c3bb15.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/js/app.54c3bb15.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/js/chunk-26ee88cf.6bb89750.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/js/chunk-26ee88cf.6bb89750.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/js/chunk-c04bbaec.3eabb331.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/js/chunk-c04bbaec.3eabb331.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/js/chunk-vendors.ba4043e0.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/js/chunk-vendors.ba4043e0.js.map" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/deploy.sh" afterPath="$PROJECT_DIR$/deploy.sh" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/372ecbf49790e101bd29494da7ba3698.json" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/372ecbf49790e101bd29494da7ba3698.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c46e18e6470606b7589be0f37d0fad4e.json" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c46e18e6470606b7589be0f37d0fad4e.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ed779f7ba876ed895d07cd0485e3cce7.json" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ed779f7ba876ed895d07cd0485e3cce7.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f5b218cd9ad5858306204cff3ddc1034.json" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f5b218cd9ad5858306204cff3ddc1034.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/0259c07a432d8822e3053af00fee3b2e.json" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/0259c07a432d8822e3053af00fee3b2e.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/07e941f3623bc5a9d8bd2491b5e8faf8.json" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/07e941f3623bc5a9d8bd2491b5e8faf8.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/0ba331cd8a08283c0ca1fa13a2e71287.json" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/0ba331cd8a08283c0ca1fa13a2e71287.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1e599d0ede379f5b74683475d12099dd.json" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1e599d0ede379f5b74683475d12099dd.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/2bd4f2b89ca566f2dcfc68b78cc4cd3d.json" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/2bd4f2b89ca566f2dcfc68b78cc4cd3d.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/847b1240e9692691527bf11715fce2bc.json" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/847b1240e9692691527bf11715fce2bc.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b6f5668426775bcf0b34afbeffb28730.json" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b6f5668426775bcf0b34afbeffb28730.json" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/src/views/New.vue" afterPath="$PROJECT_DIR$/src/views/New.vue" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -332,12 +305,12 @@
       <workItem from="1654572458848" duration="741000" />
       <workItem from="1654702111625" duration="7129000" />
       <workItem from="1654742013563" duration="1242000" />
-      <workItem from="1654792081753" duration="2362000" />
+      <workItem from="1654792081753" duration="2499000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18319000" />
+    <option name="totallyTimeSpent" value="18456000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1432" y="-8" width="1456" height="876" extended-state="6" />
