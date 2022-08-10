@@ -1,3 +1,3 @@
 # Vuelance
 
-## Demo: https://andrey-fanin.github.io/video-production/
+## Demo: https://andrey-fanin.github.io/vuelance/
